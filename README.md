@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lwamtadele
+- 👋 Hi, I’m Yemsrach Tadele, passionate Web Developer based in Addis Ababa, Ethiopia.
 - 👀 I’m interested in web design and development.
 - 🌱 I’m currently learning React and UI/UX development.
 - 💞️ I’m looking to collaborate on front-end projects.
